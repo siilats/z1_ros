@@ -58,6 +58,12 @@ cmake .. -DPYBIND11_TEST=OFF
 make -j
 sudo make install
 ```
+### python packages
+```bash
+pip install empy
+pip install pyyaml
+#also install python3-dev for correct version of python
+```
 
 ### catkin_ws
 
